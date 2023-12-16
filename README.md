@@ -1,8 +1,10 @@
-# React + Vite
+Nike Website using React and Tailwind CSS
+Overview
+This project is a simple implementation of a Nike-themed website, focusing solely on the frontend part. Built with React and styled using Tailwind CSS, the Nike Website project aims to showcase the integration of these technologies to create a visually appealing and responsive user interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+React Components: The project is organized into reusable React components for a modular and maintainable codebase.
 
-Currently, two official plugins are available:
+Tailwind CSS Styling: Tailwind CSS is used for styling, providing a utility-first approach for building modern designs without the need for writing custom CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive Design: The website is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
